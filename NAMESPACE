@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+#' @importFrom ("graphics", "plot")
+#' @importFrom ("stats", "predict")
+#' @import (Rlibeemd)
+#' @import (e1071)
